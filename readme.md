@@ -23,7 +23,7 @@ npm install proto-create
 ## Usage
 
 ```javascript
-const trace = require("proto-create");
+const create = require("proto-create");
 
 // creating an object that inherits from Object.prototype to be used as a new prototype
 let myObjectPrototype = create({
