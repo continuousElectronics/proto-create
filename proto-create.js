@@ -25,7 +25,7 @@ const getValue = function (lengthFromClosure) {
     return Math.max(lengthFromClosure, getMaxIndex(this) + 1);
 };
 
-// used inside the getter for each execution context of the exported function. Call method used from context
+// used inside the setter for each execution context of the exported function.
 // Call method used from context for "this"
 const setValue = function (value) {
     let newLength = value >>> 0;
