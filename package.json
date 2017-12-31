@@ -1,0 +1,28 @@
+{
+    "name": "proto-create",
+    "version": "1.0.0",
+    "description": "Provides a syntax for prototypal inheritance that also allows for arrays that inherit from a custom prototype",
+    "main": "proto-create.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/continuousElectronics/proto-create.git"
+    },
+    "keywords": [
+        "proto",
+        "prototype",
+        "inheritance",
+        "prototypal",
+        "create",
+        "object",
+        "array",
+        "subarray",
+        "subclass",
+        "sub-class",
+        "sub"
+    ],
+    "author": "continuous-electronics <will.senisi@gmail.com>",
+    "license": "ISC"
+}
